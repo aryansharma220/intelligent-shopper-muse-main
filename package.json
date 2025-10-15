@@ -5,6 +5,10 @@
   "version": "1.0.0",
   "type": "module",
   "author": "Aryan Sharma",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
   "keywords": [
     "ecommerce",
     "recommendations",
